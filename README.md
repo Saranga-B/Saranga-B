@@ -11,8 +11,8 @@
 
 # 🔗 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/saranga bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranga bandara" height="30" width="40" /></a>
-<a href="https://fb.com/saranga bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saranga bandara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saranga-bandara-9b582b1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranga bandara" height="30" width="40" /></a>
+<a href="https://fb.com/saranga.roxx.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saranga bandara" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
